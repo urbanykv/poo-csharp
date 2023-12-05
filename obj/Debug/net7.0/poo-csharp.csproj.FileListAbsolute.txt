@@ -1,0 +1,14 @@
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\poo-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\poo-csharp.AssemblyInfoInputs.cache
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\poo-csharp.AssemblyInfo.cs
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\poo-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\bin\Debug\net7.0\poo-csharp.exe
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\bin\Debug\net7.0\poo-csharp.deps.json
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\bin\Debug\net7.0\poo-csharp.runtimeconfig.json
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\bin\Debug\net7.0\poo-csharp.dll
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\bin\Debug\net7.0\poo-csharp.pdb
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\poo-csharp.dll
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\refint\poo-csharp.dll
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\poo-csharp.pdb
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\poo-csharp.genruntimeconfig.cache
+C:\Users\Urban\Documents\Desenvolvimento Web\Projetos\poo-csharp\obj\Debug\net7.0\ref\poo-csharp.dll
