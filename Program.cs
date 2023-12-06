@@ -1,4 +1,4 @@
-﻿using System.Buffers.Text;
+﻿using poo_csharp.interfaces;
 using poo_csharp.models;
 
 bool programa = true;
@@ -37,3 +37,8 @@ Aluno a = new()
 };
 
 a.Apresentar();
+
+
+
+Console.WriteLine(a.ToString());
+
