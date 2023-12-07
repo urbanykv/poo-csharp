@@ -38,6 +38,9 @@ Aluno a = new()
 
 a.Apresentar();
 
+Stack<int> lista = new();
+
+lista.Push(4);
 
 
 Console.WriteLine(a.ToString());
